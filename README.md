@@ -81,7 +81,8 @@ Pasos:
 5.	Rellenar la información para completar la compra.
 6.	Verificar los datos de la compra.
 7.	Finalizar la compra.
-Resultado esperado: Se debe mostrar la página CHECKOUT: COMPLETE! que aprueba la compra.
+
+ Resultado esperado: Se debe mostrar la página CHECKOUT: COMPLETE! que aprueba la compra.
 
 ### Identificador: CH_02
 Nombre: Comprar tres elementos  en SWAGLABS y eliminar uno en la página de carrito de compras
@@ -94,7 +95,8 @@ Pasos:
 6.	Rellenar la información para completar la compra.
 7.	Verificar los datos de la compra.
 8.	Finalizar la compra.
-Resultado esperado: Se debe mostrar la página CHECKOUT: COMPLETE! que aprueba la compra.
+
+ Resultado esperado: Se debe mostrar la página CHECKOUT: COMPLETE! que aprueba la compra.
 
 ### Identificador: CH_03
 Nombre: Comprar tres elementos  en SWAGLABS y eliminar uno en la página principal
@@ -107,7 +109,8 @@ Pasos:
 6.	Rellenar la información para completar la compra.
 7.	Verificar los datos de la compra.
 8.	Finalizar la compra.
-Resultado esperado: Se debe mostrar la página CHECKOUT: COMPLETE! que aprueba la compra.
+
+ Resultado esperado: Se debe mostrar la página CHECKOUT: COMPLETE! que aprueba la compra.
 
 ### Identificador: CH_04
 Nombre: Compra con el carrito vacío
@@ -118,7 +121,8 @@ Pasos:
 4.	Rellenar la información para completar la compra.
 5.	Verificar los datos de la compra.
 6.	Finalizar la compra.
-Resultado esperado: Se debe mostrar la página CHECKOUT: COMPLETE! que desaprueba la compra.
+
+ Resultado esperado: Se debe mostrar la página CHECKOUT: COMPLETE! que desaprueba la compra.
 
 ### Identificador: CH_05
 Nombre: revisión de la página de Swaglabs
@@ -127,13 +131,16 @@ Pasos:
 2.	Ingresar credenciales validos <Usuario> y <Contraseña>
 3.	Dirigirse al botón Menú.
 4.	Acceder a la opción ABOUT
-Resultado esperado: Se debe mostrar la página indicada.
-Identificador: CH_06
+
+ Resultado esperado: Se debe mostrar la página indicada.
+
+### Identificador: CH_06
 Nombre: revisión de la página de Swaglabs
 Pasos:
 1.	Ingresar a la página SWAGLABS.
 2.	Ingresar credenciales validos <Usuario> y <Contraseña>
 3.	Dirigirse al botón Menú.
 4.	Acceder a la opción LOGOUT
-Resultado esperado: Se debe mostrar la página de login.
+
+ Resultado esperado: Se debe mostrar la página de login.
 
