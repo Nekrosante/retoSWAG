@@ -1,0 +1,5 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÃº²
+d
+java:S1128"BRemove this unused import 'reto.saucedemo.model.CredencialesUser'.(Æƒ‚úÿÿÿÿ8•¦ÈÆ€0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÃº²8Ş˜ÂÆ€0
