@@ -70,7 +70,7 @@ Descripción: En la página principal, los botones ADD TO CART de los 4  de los 
 
 Evidencia:
  
-## Casos de Prueba
+## CASOS DE PRUEBA
 ### Identificador: CH_01
 Nombre: Comprar tres elementos  en SWAGLABS
 Pasos:
