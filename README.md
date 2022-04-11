@@ -73,6 +73,7 @@ Evidencia:
 ## CASOS DE PRUEBA
 ### Identificador: CH_01
 Nombre: Comprar tres elementos  en SWAGLABS
+
 Pasos:
 1.	Ingresar a la página SWAGLABS.
 2.	Ingresar credenciales validos <Usuario> y <Contraseña>
@@ -86,7 +87,8 @@ Pasos:
 
 ### Identificador: CH_02
 Nombre: Comprar tres elementos  en SWAGLABS y eliminar uno en la página de carrito de compras
-Pasos:
+
+ Pasos:
 1.	Ingresar a la página SWAGLABS.
 2.	Ingresar credenciales validos <Usuario> y <Contraseña>
 3.	Agregar <elemento> al carrito de compras usando el botón ADD TO CARD.
@@ -100,7 +102,8 @@ Pasos:
 
 ### Identificador: CH_03
 Nombre: Comprar tres elementos  en SWAGLABS y eliminar uno en la página principal
-Pasos:
+
+ Pasos:
 1.	Ingresar a la página SWAGLABS.
 2.	Ingresar credenciales validos <Usuario> y <Contraseña>
 3.	Agregar <elemento> al carrito de compras usando el botón ADD TO CARD.
@@ -114,7 +117,8 @@ Pasos:
 
 ### Identificador: CH_04
 Nombre: Compra con el carrito vacío
-Pasos:
+
+ Pasos:
 1.	Ingresar a la página SWAGLABS.
 2.	Ingresar credenciales validos <Usuario> y <Contraseña>
 3.	Dirigirse al carrito de compras por medio del botón.
@@ -126,7 +130,8 @@ Pasos:
 
 ### Identificador: CH_05
 Nombre: revisión de la página de Swaglabs
-Pasos:
+
+ Pasos:
 1.	Ingresar a la página SWAGLABS.
 2.	Ingresar credenciales validos <Usuario> y <Contraseña>
 3.	Dirigirse al botón Menú.
@@ -135,8 +140,9 @@ Pasos:
  Resultado esperado: Se debe mostrar la página indicada.
 
 ### Identificador: CH_06
-Nombre: revisión de la página de Swaglabs
-Pasos:
+Nombre: revisión de la página de login
+
+ Pasos:
 1.	Ingresar a la página SWAGLABS.
 2.	Ingresar credenciales validos <Usuario> y <Contraseña>
 3.	Dirigirse al botón Menú.
