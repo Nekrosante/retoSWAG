@@ -1,7 +1,5 @@
-# retoSWAG
-Reto Choucair
-Reto SWAGLABS
-Errores
+# Reto SWAGLABS
+# Errores
 Error 01
 Rol: standard_user
 Título: La opción “Reset App State” no restablece correctamente los botones “ADD TO CART” a “REMOVE”
