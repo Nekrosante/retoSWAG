@@ -9,7 +9,5 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features/swagLabs.feature",
         tags = "@stories",
         glue = "reto.saucedemo.stepdefinitions")
-        //snippets = SnippetType.CAMELCASE )
-
 public class RunnerTags {
 }

@@ -7,6 +7,4 @@ import org.openqa.selenium.By;
 public class VerificacionPage extends PageObject {
     public static final Target TEXTO = Target.the("Mensaje de verificacion de compra")
             .located(By.xpath("//h2[(@class='complete-header')]"));
-    public static final Target TITULO = Target.the("Titulo de la pagina")
-            .located(By.xpath("//h1[(@class='supertitle ')]"));
 }
